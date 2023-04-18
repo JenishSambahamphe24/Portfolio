@@ -7,9 +7,11 @@ function ABout() {
                 <div className='pb-8'>
                     <p className='text-4xl font-bold inline border-b-4 border-gray-500 '>About</p>
                 </div>
-                <p className='text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus officia, architecto excepturi illo assumenda sunt tenetur quisquam provident consectetur eligendi molestiae harum maiores doloremque quae dignissimos quos alias temporibus accusantium modi in voluptatem. Et modi autem velit hic eaque nisi consequatur minus tempora, sapiente ducimus. Molestiae accusamus aliquid libero perferendis.</p>
+                <p className='text-xl'>
+                Welcome to my website! I am a front-end developer with a passion for creating beautiful and functional websites. Although I don't have prior experience in a professional environment, I have attended multiple coding bootcamps and have a solid foundation in front-end technologies such as HTML, CSS, Bootstrap, Tailwind, JavaScript, and React.In addition to my bootcamp experience, I have completed a degree that has equipped me with a diverse range of programming language knowledge, including C, web development, back-end development, Java, advance Java, networking, advance networking, cybersecurity, software engineering, and database management. I am eager to apply this knowledge to real-world projects and collaborate with a team of expert software developers.
+                </p>
                 <br />
-                <p className='text-xl'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero et modi quaerat distinctio, assumenda temporibus dicta corporis perferendis. Dolor, autem eligendi nostrum nam quidem recusandae asperiores consequuntur similique nulla? Velit perspiciatis iste id consectetur fugiat quod reprehenderit eos, sint quam vero doloribus nostrum aliquam omnis optio temporibus consequatur minus fugit?</p>
+                <p className='text-xl'>Currently, I am searching for an internship to further develop my skills and gain experience in a professional setting. I am excited to learn and contribute to meaningful projects that make a positive impact on people's lives. Thank you for taking the time to visit my website, and please don't hesitate to contact me if you have any questions or opportunities.</p>
             </div>
 
         </div>
