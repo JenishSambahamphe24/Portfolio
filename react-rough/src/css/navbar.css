@@ -1,0 +1,18 @@
+nav{
+    display: flex;
+}
+.nav-item{
+    width: 30vw;
+}
+.nav-item ul{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-item ul li{
+    list-style: none;
+    color: black;
+}
+.nav-item ul li a{
+    color: black;
+    text-decoration: none;
+}
