@@ -12,7 +12,6 @@ function App() {
     <div>
       <NavBar/>
       <Home/>
-
       <Social/>
       <ABout/>
       <Portfolio/>
